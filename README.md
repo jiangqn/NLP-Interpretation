@@ -17,11 +17,21 @@ A paper list for interpreting neural networks in natural language processing.
 
 ### Probing Task Method
 
+- **[ACL-16]**: Does String-Based Neural MT Learn Source Syntax? [[paper]](https://www.aclweb.org/anthology/D16-1159.pdf)
+
+- **[ACL-17]**: What do Neural Machine Translation Models Learn about Morphology? [[paper]](https://www.aclweb.org/anthology/P17-1080.pdf)
+
+- **[Machine Translation]**: The representational geometry of word meanings acquired by neural machine translation models. [[paper]](https://link.springer.com/article/10.1007%2Fs10590-017-9194-2)
+
 - **[ICLR-19]**: What do you learn from context? Probing for sentence structure in contextualized word representations. [[paper]](https://arxiv.org/pdf/1905.06316.pdf)
+
+- **[ACL-19]**: BERT Rediscovers the Classical NLP Pipeline. [[paper]](https://www.aclweb.org/anthology/P19-1452.pdf)
 
 - **[CIKM-19]**: How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations. [[paper]](https://arxiv.org/pdf/1909.04925.pdf)
 
 - **[EMNLP-19]**: Designing and Interpreting Probes with Control Tasks. [[paper]](https://www.aclweb.org/anthology/D19-1275.pdf)
+
+- **[EMNLP-19]**: Encoders Help You Disambiguate Word Sensesin Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/D19-1149.pdf)
 
 ### Visualization Method
 
@@ -32,8 +42,6 @@ A paper list for interpreting neural networks in natural language processing.
 - **[arXiv-19]**: What does BERT Learn from Multiple-Choice Reading Comprehension Datasets? [[paper]](https://arxiv.org/pdf/1910.12391.pdf)
 
 ### Other
-
-- **[ACL-17]**: What do Neural Machine Translation Models Learn about Morphology? [[paper]](https://www.aclweb.org/anthology/P17-1080.pdf)
 
 - **[ICLR-2019]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
 
@@ -49,12 +57,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-19]**: Assessing the Ability of Self-Attention Networks to Learn Word Order. [[paper]](https://www.aclweb.org/anthology/P19-1354.pdf)
 
-- **[ACL-19]**: BERT Rediscovers the Classical NLP Pipeline. [[paper]](https://www.aclweb.org/anthology/P19-1452.pdf)
-
 - **[ACL-19]**: What does BERT learn about the structure of language? [[paper]](https://www.aclweb.org/anthology/P19-1356.pdf)
 
 - **[EMNLP-19]**: Attention is not not Explanation. [[paper]](https://www.aclweb.org/anthology/D19-1002.pdf)
-
-- **[EMNLP-19]**: Encoders Help You Disambiguate Word Sensesin Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/D19-1149.pdf)
 
 - **[EMNLP-19]**: The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. [[paper]](https://www.aclweb.org/anthology/D19-1448.pdf)
