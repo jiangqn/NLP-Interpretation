@@ -27,6 +27,10 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-19]**: BERT Rediscovers the Classical NLP Pipeline. [[paper]](https://www.aclweb.org/anthology/P19-1452.pdf)
 
+- **[ACL-19]**: What does BERT learn about the structure of language? [[paper]](https://www.aclweb.org/anthology/P19-1356.pdf)
+
+- **[ACL-19]**: Assessing the Ability of Self-Attention Networks to Learn Word Order. [[paper]](https://www.aclweb.org/anthology/P19-1354.pdf)
+
 - **[CIKM-19]**: How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations. [[paper]](https://arxiv.org/pdf/1909.04925.pdf)
 
 - **[EMNLP-19]**: Designing and Interpreting Probes with Control Tasks. [[paper]](https://www.aclweb.org/anthology/D19-1275.pdf)
@@ -41,6 +45,16 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[arXiv-19]**: What does BERT Learn from Multiple-Choice Reading Comprehension Datasets? [[paper]](https://arxiv.org/pdf/1910.12391.pdf)
 
+### Attention Interpretability
+
+- **[NAACL-19]**: Attention is not Explanation. [[paper]](https://www.aclweb.org/anthology/N19-1357.pdf)
+
+- **[arXiv-19]**: Attention Interpretability Across NLP Tasks. [[paper]](https://arxiv.org/pdf/1909.11218.pdf)
+
+- **[ACL-19]**: Is Attention Interpretable? [[paper]](https://www.aclweb.org/anthology/P19-1282.pdf)
+
+- **[EMNLP-19]**: Attention is not not Explanation. [[paper]](https://www.aclweb.org/anthology/D19-1002.pdf)
+
 ### Other
 
 - **[ICLR-2019]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
@@ -49,16 +63,6 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[SIGIR-19-workshop]**: Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? [[paper]](https://arxiv.org/pdf/1907.00570.pdf)
 
-- **[NAACL-19]**: Attention is not Explanation. [[paper]](https://www.aclweb.org/anthology/N19-1357.pdf)
-
 - **[ACL-19]**: Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned. [[paper]](https://arxiv.org/pdf/1905.09418.pdf)
-
-- **[ACL-19]**: Is Attention Interpretable? [[paper]](https://www.aclweb.org/anthology/P19-1282.pdf)
-
-- **[ACL-19]**: Assessing the Ability of Self-Attention Networks to Learn Word Order. [[paper]](https://www.aclweb.org/anthology/P19-1354.pdf)
-
-- **[ACL-19]**: What does BERT learn about the structure of language? [[paper]](https://www.aclweb.org/anthology/P19-1356.pdf)
-
-- **[EMNLP-19]**: Attention is not not Explanation. [[paper]](https://www.aclweb.org/anthology/D19-1002.pdf)
 
 - **[EMNLP-19]**: The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. [[paper]](https://www.aclweb.org/anthology/D19-1448.pdf)
