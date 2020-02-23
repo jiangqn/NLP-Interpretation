@@ -21,15 +21,21 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-17]**: What do Neural Machine Translation Models Learn about Morphology? [[paper]](https://www.aclweb.org/anthology/P17-1080.pdf)
 
-- **[Machine Translation]**: The representational geometry of word meanings acquired by neural machine translation models. [[paper]](https://link.springer.com/article/10.1007%2Fs10590-017-9194-2)
+- **[Machine Translation-17]**: The representational geometry of word meanings acquired by neural machine translation models. [[paper]](https://link.springer.com/article/10.1007%2Fs10590-017-9194-2)
+
+- **[EMNLP-18-workshop]**: An Analysis of Encoder Representations in Transformer-Based Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-5431.pdf)
 
 - **[ICLR-19]**: What do you learn from context? Probing for sentence structure in contextualized word representations. [[paper]](https://arxiv.org/pdf/1905.06316.pdf)
+
+- **[NAACL-19]**: A Structural Probe for Finding Syntax in Word Representations. [[paper]](https://www.aclweb.org/anthology/N19-1419.pdf)
 
 - **[ACL-19]**: BERT Rediscovers the Classical NLP Pipeline. [[paper]](https://www.aclweb.org/anthology/P19-1452.pdf)
 
 - **[ACL-19]**: What does BERT learn about the structure of language? [[paper]](https://www.aclweb.org/anthology/P19-1356.pdf)
 
 - **[ACL-19]**: Assessing the Ability of Self-Attention Networks to Learn Word Order. [[paper]](https://www.aclweb.org/anthology/P19-1354.pdf)
+
+- **[ACL-19-workshop]**: Open Sesame: Getting Inside BERT’s Linguistic Knowledge. [[paper]](https://www.aclweb.org/anthology/W19-4825.pdf)
 
 - **[CIKM-19]**: How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations. [[paper]](https://arxiv.org/pdf/1909.04925.pdf)
 
@@ -39,11 +45,27 @@ A paper list for interpreting neural networks in natural language processing.
 
 ### Visualization Method
 
+- **[EMNLP-18-workshop]**: Extracting Syntactic Trees from Transformer Encoder Self-Attentions.[[paper]](https://www.aclweb.org/anthology/W18-5444.pdf)
+
+- **[ACL-19-workshop]**: From Balustrades to Pierre Vinken:Looking for Syntax in Transformer Self-Attention. [[paper]](https://www.aclweb.org/anthology/W19-4827.pdf)
+
 - **[ACL-19-workshop]**: What does BERT look at? An Analysis of BERT’s Attention. [[paper]](https://www.aclweb.org/anthology/W19-4828.pdf)
 
 ### Adversarial Attack Method
 
 - **[arXiv-19]**: What does BERT Learn from Multiple-Choice Reading Comprehension Datasets? [[paper]](https://arxiv.org/pdf/1910.12391.pdf)
+
+### Canonical Correlation Analysis
+
+- **[NIPS-17]**: SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability. [[paper]](https://arxiv.org/pdf/1706.05806.pdf)
+
+- **[ICML-19]**: Similarity of Neural Network Representations Revisited. [[paper]](https://arxiv.org/pdf/1905.00414.pdf)
+
+- **[EMNLP-19]**: The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. [[paper]](https://www.aclweb.org/anthology/D19-1448.pdf)
+
+### Interpreting with Nearest Neighbors
+
+- **[EMNLP-18-workshop]**: Interpreting Neural Networks with Nearest Neighbors. [[paper]](https://www.aclweb.org/anthology/W18-5416.pdf)
 
 ### Attention Interpretability
 
@@ -55,6 +77,18 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: Attention is not not Explanation. [[paper]](https://www.aclweb.org/anthology/D19-1002.pdf)
 
+### Difficulty of Interpreting
+
+- **[arXiv-17]**: The (Un)reliability of saliency methods. [[paper]](https://arxiv.org/pdf/1711.00867.pdf)
+
+- **[EMNLP-18]**: Pathologies of Neural Models Make Interpretations Difficult. [[paper]](https://arxiv.org/pdf/1804.07781.pdf)
+
+- **[AAAI-19]**: Interpretation of Neural Networks is Fragile. [[paper]](https://arxiv.org/pdf/1710.10547.pdf)
+
+### Explanation Evaluating
+
+- **[ACL-19-workshop]**: Evaluating Recurrent Neural Network Explanations. [[paper]](https://www.aclweb.org/anthology/W19-4813.pdf)
+
 ### Other
 
 - **[ICLR-2019]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
@@ -65,4 +99,3 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-19]**: Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned. [[paper]](https://arxiv.org/pdf/1905.09418.pdf)
 
-- **[EMNLP-19]**: The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. [[paper]](https://www.aclweb.org/anthology/D19-1448.pdf)
