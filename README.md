@@ -19,9 +19,19 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-16]**: Does String-Based Neural MT Learn Source Syntax? [[paper]](https://www.aclweb.org/anthology/D16-1159.pdf)
 
+- **[EMNLP-16]**: Analyzing linguistic knowledge in sequential model of sentence. [[paper]](https://www.aclweb.org/anthology/D16-1079.pdf)
+
+- **[ICLR-17]**: Fine-grained analysis of sentence embeddings using auxiliary prediction tasks. [[paper]](https://openreview.net/pdf?id=BJh6Ztuxl)
+
 - **[ACL-17]**: What do Neural Machine Translation Models Learn about Morphology? [[paper]](https://www.aclweb.org/anthology/P17-1080.pdf)
 
+- **[EACL-17]**: How Grammatical is Character-level Neural Machine Translation? Assessing MT Quality with Contrastive Translation Pairs. [[paper]](https://www.aclweb.org/anthology/E17-2060.pdf)
+
+- **[IJCNLP-17]**: Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks. [[paper]](https://www.aclweb.org/anthology/I17-1001.pdf)
+
 - **[Machine Translation-17]**: The representational geometry of word meanings acquired by neural machine translation models. [[paper]](https://link.springer.com/article/10.1007%2Fs10590-017-9194-2)
+
+- **[ACL-18]**: What you can cram into a single vector: Probing sentence embeddings for linguistic properties. [[paper]](https://www.aclweb.org/anthology/P18-1198.pdf)
 
 - **[EMNLP-18-workshop]**: An Analysis of Encoder Representations in Transformer-Based Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-5431.pdf)
 
@@ -44,6 +54,14 @@ A paper list for interpreting neural networks in natural language processing.
 - **[EMNLP-19]**: Encoders Help You Disambiguate Word Sensesin Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/D19-1149.pdf)
 
 ### Visualization Method
+
+- **[ICLR-16]**: Visualizing and Understanding Recurrent Networks. [[paper]](https://arxiv.org/pdf/1506.02078.pdf)
+
+- **[arXiv-16]**: Representation of linguistic form and function in recurrent neural networks. [[paper]](https://arxiv.org/pdf/1602.08952.pdf)
+
+- **[ACL-17]**: Visualizing and Understanding Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/P17-1106.pdf)
+
+- **[IEEE-VIS-18]**: Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models. [[paper]](https://arxiv.org/pdf/1804.09299.pdf)
 
 - **[EMNLP-18-workshop]**: Extracting Syntactic Trees from Transformer Encoder Self-Attentions.[[paper]](https://www.aclweb.org/anthology/W18-5444.pdf)
 
