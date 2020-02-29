@@ -33,6 +33,10 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-18]**: What you can cram into a single vector: Probing sentence embeddings for linguistic properties. [[paper]](https://www.aclweb.org/anthology/P18-1198.pdf)
 
+- **[ACL-18]**: LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better. [[paper]](https://www.aclweb.org/anthology/P18-1132.pdf)
+
+- **[EMNLP-18]**: Dissecting Contextual Word Embeddings: Architecture and Representation. [[paper]](https://arxiv.org/pdf/1808.08949.pdf)
+
 - **[EMNLP-18-workshop]**: An Analysis of Encoder Representations in Transformer-Based Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-5431.pdf)
 
 - **[ICLR-19]**: What do you learn from context? Probing for sentence structure in contextualized word representations. [[paper]](https://arxiv.org/pdf/1905.06316.pdf)
@@ -60,6 +64,8 @@ A paper list for interpreting neural networks in natural language processing.
 - **[arXiv-16]**: Representation of linguistic form and function in recurrent neural networks. [[paper]](https://arxiv.org/pdf/1602.08952.pdf)
 
 - **[ACL-17]**: Visualizing and Understanding Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/P17-1106.pdf)
+
+- **[IJCAI-18]**: Visualisation and "Diagnostic Classi ers" Reveal how Recurrent and Recursive Neural Networks Process Hierarchical Structure. [[paper]](https://www.ijcai.org/Proceedings/2018/0796.pdf)
 
 - **[IEEE-VIS-18]**: Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models. [[paper]](https://arxiv.org/pdf/1804.09299.pdf)
 
