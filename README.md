@@ -3,6 +3,10 @@ A paper list for interpreting neural networks in natural language processing.
 
 ## Review
 
+- **[arXiv-16]**: The mythos of model interpretability. [[paper]](https://arxiv.org/pdf/1606.03490.pdf) [[book]](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340)
+
+- **[arXiv-17]**: Towards A Rigorous Science of Interpretable Machine Learning. [[paper]](https://arxiv.org/pdf/1702.08608.pdf)
+
 - **[blog]**: The Problem of Faithfulness in (Neural Network) NLP Interpretations. [[blog]](https://medium.com/@alonjacovi/the-problem-of-faithfulness-in-neural-network-nlp-interpretations-ee98d7027cbd)
 
 - **[ZJU]**: 模型可解释性关键技术、应用及其安全性研究综述. [[paper]](https://nesa.zju.edu.cn/download/%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E3%80%81%E5%BA%94%E7%94%A8%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E6%80%A7%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0.pdf)
@@ -61,9 +65,13 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ICLR-16]**: Visualizing and Understanding Recurrent Networks. [[paper]](https://arxiv.org/pdf/1506.02078.pdf)
 
+- **[NAACL-16]**: Visualizing and Understanding Neural Models in NLP. [[paper]](https://www.aclweb.org/anthology/N16-1082.pdf)
+
 - **[arXiv-16]**: Representation of linguistic form and function in recurrent neural networks. [[paper]](https://arxiv.org/pdf/1602.08952.pdf)
 
 - **[ACL-17]**: Visualizing and Understanding Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/P17-1106.pdf)
+
+- **[IJCNLP-17]**: What does Attention in Neural Machine TranslationPay Attention to? [[paper]](https://www.aclweb.org/anthology/I17-1004.pdf)
 
 - **[IJCAI-18]**: Visualisation and "Diagnostic Classi ers" Reveal how Recurrent and Recursive Neural Networks Process Hierarchical Structure. [[paper]](https://www.ijcai.org/Proceedings/2018/0796.pdf)
 
@@ -74,6 +82,12 @@ A paper list for interpreting neural networks in natural language processing.
 - **[ACL-19-workshop]**: From Balustrades to Pierre Vinken:Looking for Syntax in Transformer Self-Attention. [[paper]](https://www.aclweb.org/anthology/W19-4827.pdf)
 
 - **[ACL-19-workshop]**: What does BERT look at? An Analysis of BERT’s Attention. [[paper]](https://www.aclweb.org/anthology/W19-4828.pdf)
+
+### 
+
+###  Local Interpretable Model-agnostic Explanations (LIME)
+
+- **[NAACL-16]**: "Why Should I Trust You?": Explaining the Predictions of Any Classifier. [[paper]](https://www.aclweb.org/anthology/N16-3020.pdf)
 
 ### Adversarial Attack Method
 
@@ -114,6 +128,10 @@ A paper list for interpreting neural networks in natural language processing.
 - **[ACL-19-workshop]**: Evaluating Recurrent Neural Network Explanations. [[paper]](https://www.aclweb.org/anthology/W19-4813.pdf)
 
 ### Other
+
+- **[WMT-18]**: An Analysis of Attention Mechanisms: The Case ofWord Sense Disambiguation in Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-6304.pdf)
+
+- **[AAAI-19]**: What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models. [[paper]](https://arxiv.org/pdf/1812.09355.pdf)
 
 - **[ICLR-2019]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
 
