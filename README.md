@@ -131,6 +131,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[WMT-18]**: An Analysis of Attention Mechanisms: The Case ofWord Sense Disambiguation in Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-6304.pdf)
 
+- **[EAMT-18]**: An analysis of source context dependency in neural machine translation. [[paper]](https://rua.ua.es/dspace/bitstream/10045/76048/1/EAMT2018-Proceedings_21.pdf)
+
 - **[AAAI-19]**: What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models. [[paper]](https://arxiv.org/pdf/1812.09355.pdf)
 
 - **[ICLR-2019]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
