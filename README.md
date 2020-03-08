@@ -119,27 +119,41 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[arXiv-17]**: The (Un)reliability of saliency methods. [[paper]](https://arxiv.org/pdf/1711.00867.pdf)
 
+- **[ICML-18-workshop]**: On the Robustness of Interpretability Methods. [[paper]](https://arxiv.org/pdf/1806.08049.pdf)
+
 - **[EMNLP-18]**: Pathologies of Neural Models Make Interpretations Difficult. [[paper]](https://arxiv.org/pdf/1804.07781.pdf)
 
 - **[AAAI-19]**: Interpretation of Neural Networks is Fragile. [[paper]](https://arxiv.org/pdf/1710.10547.pdf)
 
 ### Explanation Evaluating
 
+- **[NAACL-18]**: Comparing Automatic and Human Evaluation of Local Explanations for Text Classification. [[paper]](https://www.aclweb.org/anthology/N18-1097.pdf)
+
 - **[ACL-19-workshop]**: Evaluating Recurrent Neural Network Explanations. [[paper]](https://www.aclweb.org/anthology/W19-4813.pdf)
 
 ### Other
+
+- **[ACL-16-workshop]**: Explaining Predictions of Non-Linear Classifiers in NLP. [[paper]](https://arxiv.org/pdf/1606.07298)
+
+- **[ICML-17]**: Understanding Black-box Predictions via Influence Functions. [[paper]](https://arxiv.org/pdf/1703.04730.pdf)
 
 - **[WMT-18]**: An Analysis of Attention Mechanisms: The Case ofWord Sense Disambiguation in Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-6304.pdf)
 
 - **[EAMT-18]**: An analysis of source context dependency in neural machine translation. [[paper]](https://rua.ua.es/dspace/bitstream/10045/76048/1/EAMT2018-Proceedings_21.pdf)
 
+- **[NIPS-18]**: Sanity Checks for Saliency Maps. [[paper]](https://arxiv.org/pdf/1810.03292.pdf)
+
+- **[NIPS-18]**: Towards Robust Interpretability with Self-Explaining Neural Networks. [[paper]](https://arxiv.org/pdf/1806.07538)
+
+- **[EMNLP-18]**: Interpreting Recurrent and Attention-Based Neural Models: a Case Study on Natural Language Inference. [[paper]](https://www.aclweb.org/anthology/D18-1537.pdf)
+
 - **[AAAI-19]**: What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models. [[paper]](https://arxiv.org/pdf/1812.09355.pdf)
 
-- **[ICLR-2019]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
-
-- **[ICML-18-workshop]**: On the Robustness of Interpretability Methods. [[paper]](https://arxiv.org/pdf/1806.08049.pdf)
+- **[ICLR-19]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
 
 - **[SIGIR-19-workshop]**: Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? [[paper]](https://arxiv.org/pdf/1907.00570.pdf)
 
 - **[ACL-19]**: Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned. [[paper]](https://arxiv.org/pdf/1905.09418.pdf)
+
+- **[EMNLP-19]**: Towards Understanding Neural Machine Translation with Word Importance. [[paper]](https://arxiv.org/pdf/1909.00326.pdf)
 
