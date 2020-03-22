@@ -85,6 +85,12 @@ A paper list for interpreting neural networks in natural language processing.
 
 ### Input (Word) Importance Estimation
 
+- **[ICML-17]**: Understanding Black-box Predictions via Influence Functions. [[paper]](https://arxiv.org/pdf/1703.04730.pdf)
+
+- **[ICML-17]**: Axiomatic Attribution for Deep Networks. [[paper]](https://arxiv.org/pdf/1703.01365.pdf)
+
+- **[EMNLP-17]**: A causal framework for explaining the predictions of black-box sequence-to-sequence models. [[paper]](https://www.aclweb.org/anthology/D17-1042.pdf)
+
 - **[NIPS-18]**: Sanity Checks for Saliency Maps. [[paper]](https://arxiv.org/pdf/1810.03292.pdf)
 
 - **[EMNLP-19]**: Towards Understanding Neural Machine Translation with Word Importance. [[paper]](https://arxiv.org/pdf/1909.00326.pdf)
@@ -116,6 +122,8 @@ A paper list for interpreting neural networks in natural language processing.
 ### Individual Neurons Analysis
 
 - **[AAAI-19]**: What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models. [[paper]](https://arxiv.org/pdf/1812.09355.pdf)
+
+- **[ICLR-19]**: How Important Is a Neuron? [[paper]](https://arxiv.org/pdf/1805.12233.pdf)
 
 - **[ICLR-19]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
 
@@ -152,8 +160,6 @@ A paper list for interpreting neural networks in natural language processing.
 ### Other
 
 - **[ACL-16-workshop]**: Explaining Predictions of Non-Linear Classifiers in NLP. [[paper]](https://arxiv.org/pdf/1606.07298)
-
-- **[ICML-17]**: Understanding Black-box Predictions via Influence Functions. [[paper]](https://arxiv.org/pdf/1703.04730.pdf)
 
 - **[EAMT-18]**: An analysis of source context dependency in neural machine translation. [[paper]](https://rua.ua.es/dspace/bitstream/10045/76048/1/EAMT2018-Proceedings_21.pdf)
 
