@@ -83,17 +83,13 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-19-workshop]**: What does BERT look at? An Analysis of BERT’s Attention. [[paper]](https://www.aclweb.org/anthology/W19-4828.pdf)
 
-### 
+### Input (Word) Importance Estimation
 
-###  Local Interpretable Model-agnostic Explanations (LIME)
+- **[NIPS-18]**: Sanity Checks for Saliency Maps. [[paper]](https://arxiv.org/pdf/1810.03292.pdf)
 
-- **[NAACL-16]**: "Why Should I Trust You?": Explaining the Predictions of Any Classifier. [[paper]](https://www.aclweb.org/anthology/N16-3020.pdf)
+- **[EMNLP-19]**: Towards Understanding Neural Machine Translation with Word Importance. [[paper]](https://arxiv.org/pdf/1909.00326.pdf)
 
-### Adversarial Attack Method
-
-- **[arXiv-19]**: What does BERT Learn from Multiple-Choice Reading Comprehension Datasets? [[paper]](https://arxiv.org/pdf/1910.12391.pdf)
-
-### Canonical Correlation Analysis
+### Representation Similarity Analysis
 
 - **[NIPS-17]**: SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability. [[paper]](https://arxiv.org/pdf/1706.05806.pdf)
 
@@ -101,11 +97,13 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. [[paper]](https://www.aclweb.org/anthology/D19-1448.pdf)
 
-### Interpreting with Nearest Neighbors
-
-- **[EMNLP-18-workshop]**: Interpreting Neural Networks with Nearest Neighbors. [[paper]](https://www.aclweb.org/anthology/W18-5416.pdf)
-
 ### Attention Interpretability
+
+- **[WMT-18]**: An Analysis of Attention Mechanisms: The Case of Word Sense Disambiguation in Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-6304.pdf)
+
+- **[SIGIR-19-workshop]**: Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? [[paper]](https://arxiv.org/pdf/1907.00570.pdf)
+
+- **[ACL-19]**: Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned. [[paper]](https://arxiv.org/pdf/1905.09418.pdf)
 
 - **[NAACL-19]**: Attention is not Explanation. [[paper]](https://www.aclweb.org/anthology/N19-1357.pdf)
 
@@ -115,6 +113,12 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: Attention is not not Explanation. [[paper]](https://www.aclweb.org/anthology/D19-1002.pdf)
 
+### Individual Neurons Analysis
+
+- **[AAAI-19]**: What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models. [[paper]](https://arxiv.org/pdf/1812.09355.pdf)
+
+- **[ICLR-19]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
+
 ### Difficulty of Interpreting
 
 - **[arXiv-17]**: The (Un)reliability of saliency methods. [[paper]](https://arxiv.org/pdf/1711.00867.pdf)
@@ -123,7 +127,21 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-18]**: Pathologies of Neural Models Make Interpretations Difficult. [[paper]](https://arxiv.org/pdf/1804.07781.pdf)
 
+- **[NIPS-18]**: Towards Robust Interpretability with Self-Explaining Neural Networks. [[paper]](https://arxiv.org/pdf/1806.07538)
+
 - **[AAAI-19]**: Interpretation of Neural Networks is Fragile. [[paper]](https://arxiv.org/pdf/1710.10547.pdf)
+
+### Local Interpretable Model-agnostic Explanations (LIME)
+
+- **[NAACL-16]**: "Why Should I Trust You?": Explaining the Predictions of Any Classifier. [[paper]](https://www.aclweb.org/anthology/N16-3020.pdf)
+
+### Adversarial Attack Method
+
+- **[arXiv-19]**: What does BERT Learn from Multiple-Choice Reading Comprehension Datasets? [[paper]](https://arxiv.org/pdf/1910.12391.pdf)
+
+### Interpreting with Nearest Neighbors
+
+- **[EMNLP-18-workshop]**: Interpreting Neural Networks with Nearest Neighbors. [[paper]](https://www.aclweb.org/anthology/W18-5416.pdf)
 
 ### Explanation Evaluating
 
@@ -137,23 +155,7 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ICML-17]**: Understanding Black-box Predictions via Influence Functions. [[paper]](https://arxiv.org/pdf/1703.04730.pdf)
 
-- **[WMT-18]**: An Analysis of Attention Mechanisms: The Case ofWord Sense Disambiguation in Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-6304.pdf)
-
 - **[EAMT-18]**: An analysis of source context dependency in neural machine translation. [[paper]](https://rua.ua.es/dspace/bitstream/10045/76048/1/EAMT2018-Proceedings_21.pdf)
 
-- **[NIPS-18]**: Sanity Checks for Saliency Maps. [[paper]](https://arxiv.org/pdf/1810.03292.pdf)
-
-- **[NIPS-18]**: Towards Robust Interpretability with Self-Explaining Neural Networks. [[paper]](https://arxiv.org/pdf/1806.07538)
-
 - **[EMNLP-18]**: Interpreting Recurrent and Attention-Based Neural Models: a Case Study on Natural Language Inference. [[paper]](https://www.aclweb.org/anthology/D18-1537.pdf)
-
-- **[AAAI-19]**: What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models. [[paper]](https://arxiv.org/pdf/1812.09355.pdf)
-
-- **[ICLR-19]**: Identifying and Controlling Important Neurons in Neural Machine Translation. [[paper]](https://arxiv.org/pdf/1811.01157.pdf)
-
-- **[SIGIR-19-workshop]**: Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? [[paper]](https://arxiv.org/pdf/1907.00570.pdf)
-
-- **[ACL-19]**: Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned. [[paper]](https://arxiv.org/pdf/1905.09418.pdf)
-
-- **[EMNLP-19]**: Towards Understanding Neural Machine Translation with Word Importance. [[paper]](https://arxiv.org/pdf/1909.00326.pdf)
 
