@@ -7,9 +7,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[arXiv-17]**: Towards A Rigorous Science of Interpretable Machine Learning. [[paper]](https://arxiv.org/pdf/1702.08608.pdf)
 
-- **[TACL-19]**: Analysis Methods in Neural Language Processing: A Survey. [[paper]](https://www.aclweb.org/anthology/Q19-1004.pdf)
-
-- **[blog]**: The Problem of Faithfulness in (Neural Network) NLP Interpretations. [[blog]](https://medium.com/@alonjacovi/the-problem-of-faithfulness-in-neural-network-nlp-interpretations-ee98d7027cbd)
+- **[TACL-19]**: Analysis Methods in Neural Language Processing: A Survey. [[paper]](https://www.aclweb.org/anthology/Q19-1004.pdf) [[appendix]](https://boknilev.github.io/nlp-analysis-methods/)
+> This survey reviews methods of analyzing, understanding and interpreting neural network models in NLP. Existing works can be categorized as the following 6 categories: (i) Probing task methods for exploiting what kind of linguistic information is captured in neural networks. (ii) Visualization. (iii) The compilation of challenge sets, or test suites for fine-grained evaluation. (iv) The generation and use of adversarial examples to probe weaknesses of neural networks. (v) Explaining model predictions. (vi) Other methods.
 
 - **[ZJU]**: 模型可解释性关键技术、应用及其安全性研究综述. [[paper]](https://nesa.zju.edu.cn/download/%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E3%80%81%E5%BA%94%E7%94%A8%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E6%80%A7%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0.pdf)
 
@@ -131,6 +130,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 ### Difficulty of Interpreting
 
+- **[blog]**: The Problem of Faithfulness in (Neural Network) NLP Interpretations. [[blog]](https://medium.com/@alonjacovi/the-problem-of-faithfulness-in-neural-network-nlp-interpretations-ee98d7027cbd)
+
 - **[arXiv-17]**: The (Un)reliability of saliency methods. [[paper]](https://arxiv.org/pdf/1711.00867.pdf)
 
 - **[ICML-18-workshop]**: On the Robustness of Interpretability Methods. [[paper]](https://arxiv.org/pdf/1806.08049.pdf)
@@ -141,13 +142,15 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[AAAI-19]**: Interpretation of Neural Networks is Fragile. [[paper]](https://arxiv.org/pdf/1710.10547.pdf)
 
+### Adversarial Examples for Probing the weaknesses of Neural Networks
+
+- **[ICLR-19]**: Adversarial Examples Are Not Bugs, They Are Features. [[paper]](https://arxiv.org/pdf/1905.02175.pdf)
+
+- **[arXiv-19]**: What does BERT Learn from Multiple-Choice Reading Comprehension Datasets? [[paper]](https://arxiv.org/pdf/1910.12391.pdf)
+
 ### Local Interpretable Model-agnostic Explanations (LIME)
 
 - **[NAACL-16]**: "Why Should I Trust You?": Explaining the Predictions of Any Classifier. [[paper]](https://www.aclweb.org/anthology/N16-3020.pdf)
-
-### Adversarial Attack Method
-
-- **[arXiv-19]**: What does BERT Learn from Multiple-Choice Reading Comprehension Datasets? [[paper]](https://arxiv.org/pdf/1910.12391.pdf)
 
 ### Interpreting with Nearest Neighbors
 
