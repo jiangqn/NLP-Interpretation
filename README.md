@@ -100,6 +100,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: Towards Understanding Neural Machine Translation with Word Importance. [[paper]](https://arxiv.org/pdf/1909.00326.pdf)
 
+> (i) Word importance estimation aims to indentify most important words to translation performance in original input. (ii) The paper proposed a gradient-based method which outperforms erasion-based method and attention-based method. (iii) Additional analysis shows that words of certain syntactic categories have higher importance while the categories vary across language.
+
 ### Representation Similarity Analysis
 
 - **[NIPS-17]**: SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability. [[paper]](https://arxiv.org/pdf/1706.05806.pdf)
@@ -174,3 +176,5 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-18]**: Interpreting Recurrent and Attention-Based Neural Models: a Case Study on Natural Language Inference. [[paper]](https://www.aclweb.org/anthology/D18-1537.pdf)
 
+- **[arXiv-20]**: Lost in Embedding Space: Explaining Cross-Lingual Task Performance with Eigenvalue Divergence. [[paper]](https://arxiv.org/pdf/2001.11136.pdf)
+> This paper proposed a language similarity (distance) measure based on isomorphism between monolingual embedding spaces, which shows strong correlation with performance of BLI and downstream cross-lingual tasks (machine translation, cross-lingual dependency parsing and POS tagging). Additional analysis shows that isomorphism-based language distances and typologically driven language distances capture different aspects of language characters.
