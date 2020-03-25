@@ -24,6 +24,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-16]**: Does String-Based Neural MT Learn Source Syntax? [[paper]](https://www.aclweb.org/anthology/D16-1159.pdf)
 
+> This paper exploited: (i) Does the encoder learn syntactic information about the source sentence? (ii) What kind of syntactic information is learned, and how much? They predicted syntactic labels and extracted syntactic trees using encoder intermediate representations to examine whether encoder capture syntactic information. Experimental results showed that: (i) Encoder captures both global and local syntactic information of the source sentence, and different information tends to be stored at different layers. (ii) Much syntactic  information is learned, while various types of syntactic information are still missing.
+
 - **[EMNLP-16]**: Analyzing linguistic knowledge in sequential model of sentence. [[paper]](https://www.aclweb.org/anthology/D16-1079.pdf)
 
 - **[ICLR-17]**: Fine-grained analysis of sentence embeddings using auxiliary prediction tasks. [[paper]](https://openreview.net/pdf?id=BJh6Ztuxl)
