@@ -180,3 +180,5 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[arXiv-20]**: Lost in Embedding Space: Explaining Cross-Lingual Task Performance with Eigenvalue Divergence. [[paper]](https://arxiv.org/pdf/2001.11136.pdf)
 > This paper proposed a language similarity (distance) measure (called EVD) based on isomorphism between monolingual embedding spaces, which shows strong correlation with performance of BLI and downstream cross-lingual tasks (machine translation, cross-lingual dependency parsing and POS tagging). Additional analysis shows that isomorphism-based language distances and typologically driven language distances capture different aspects of language characters. The combination of EVD and typologically driven language distances has stronger correlation with cross-lingual task performance.
+
+- **[arXiv-20]**: Toward Interpretability of Dual-Encoder Models for Dialogue Response Suggestions. [[paper]](https://arxiv.org/pdf/2003.04998.pdf)
