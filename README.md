@@ -68,6 +68,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: Encoders Help You Disambiguate Word Sensesin Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/D19-1149.pdf)
 
+- **[EMNLP-19]**: Revealing the Dark Secrets of BERT. [[paper]](https://www.aclweb.org/anthology/D19-1445.pdf)
+
 ### Visualization Method
 
 - **[ICLR-16]**: Visualizing and Understanding Recurrent Networks. [[paper]](https://arxiv.org/pdf/1506.02078.pdf)
