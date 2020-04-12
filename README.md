@@ -70,6 +70,12 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: Revealing the Dark Secrets of BERT. [[paper]](https://www.aclweb.org/anthology/D19-1445.pdf)
 
+- **[ACL-20]**: Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve. [[paper]](https://arxiv.org/pdf/2004.04564.pdf)
+
+- **[ACL-20]**: Information-Theoretic Probing for Linguistic Structure. [[paper]](https://arxiv.org/pdf/2004.03061.pdf)
+
+- **[arXiv-20]**: Information-Theoretic Probing with Minimum Description Length. [[paper]](https://arxiv.org/pdf/2003.12298.pdf) [[blog]](https://lena-voita.github.io/posts/mdl_probes.html)
+
 ### Visualization Method
 
 - **[ICLR-16]**: Visualizing and Understanding Recurrent Networks. [[paper]](https://arxiv.org/pdf/1506.02078.pdf)
