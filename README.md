@@ -73,6 +73,12 @@ A paper list for interpreting neural networks in natural language processing.
 - **[arXiv-20]**: What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models. [[paper]](https://arxiv.org/pdf/2004.06499.pdf)
 
 - **[arXiv-20]**: Telling BERT's full story: from Local Attention to Global Aggregation. [[paper]](https://arxiv.org/pdf/2004.05916.pdf)
+  
+- **[ACL-20]**: Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve. [[paper]](https://arxiv.org/pdf/2004.04564.pdf)
+
+- **[ACL-20]**: Information-Theoretic Probing for Linguistic Structure. [[paper]](https://arxiv.org/pdf/2004.03061.pdf)
+
+- **[arXiv-20]**: Information-Theoretic Probing with Minimum Description Length. [[paper]](https://arxiv.org/pdf/2003.12298.pdf) [[blog]](https://lena-voita.github.io/posts/mdl_probes.html)
 
 ### Visualization Method
 
