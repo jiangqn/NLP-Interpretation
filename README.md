@@ -70,6 +70,10 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: Revealing the Dark Secrets of BERT. [[paper]](https://www.aclweb.org/anthology/D19-1445.pdf)
 
+- **[arXiv-20]**: What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models. [[paper]](https://arxiv.org/pdf/2004.06499.pdf)
+
+- **[arXiv-20]**: Telling BERT's full story: from Local Attention to Global Aggregation. [[paper]](https://arxiv.org/pdf/2004.05916.pdf)
+
 ### Visualization Method
 
 - **[ICLR-16]**: Visualizing and Understanding Recurrent Networks. [[paper]](https://arxiv.org/pdf/1506.02078.pdf)
@@ -187,3 +191,5 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[arXiv-20]**: A Primer in BERTology: What we know about how BERT works. [[paper]](https://arxiv.org/pdf/2002.12327.pdf)
 > This paper is an overview of studies about what BERT learned and how BERT works. (i) **BERT embedding:** BERT’s contextualized embeddings form distinct and clear clusters corresponding to word senses, which confirms that the basic distributional hypothesis holds for these representations. Later BERT layers produce more context-specific representations. (ii) **What knowledge does BERT have:** BERT encodes syntactic knowledge, semantic knowledge and world knowledge partially. But the encoding of that knowledge does not indicate that it actually relies on that knowledge. (iii) **Localizing linguistic knowledge:** Most self-attention heads do not directly encode any non-trivial linguistic information. Some BERT heads seem to specialize in certain types of syntactic relations.  Lower layers have the most linear word order information. syntactic information is the most prominent in the middle BERT layers. The final layers of BERT are the most task-specific. Semantics is spread across the entire model. (iv) **Training BERT:** Lots of improvements of pre-training objectives, model architecture choices and fine-tuning have been made, see more details in the paper. (v) **How big should BERT be:** BERT is over-parametrized and can be compressed. (vi) **Multilingual BERT:**  mBERT seems to naturally learn high-quality cross-lingual word alignments and can retrieve parallel sentences. mBERT is simply trained on a multilingual corpus, with no language IDs, but it encodes language identities, and adding the IDs in pre-training was not beneficial.  (vii) **Limitations and Directions for further research:** A linguistic pattern is not observed by our probing classifier does not guarantee that it is not there, and the observation of a pattern does not tell us how it is used.  A more complex probe might be able to recover more information, but it becomes less clear whether this is due to the probed model or the probing classifier. BERT does not form good representations for numbers and fails to generalize away from training data. BERT performs bad at verbal reasoning and can not reason with its world knowledge.
+
+- **[ACL-20]**: Generating Fact Checking Explanations. [[paper]](https://arxiv.org/pdf/2004.05773.pdf)
