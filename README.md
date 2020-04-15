@@ -70,6 +70,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: Revealing the Dark Secrets of BERT. [[paper]](https://www.aclweb.org/anthology/D19-1445.pdf)
 
+- **[RANLP-19]**: Understanding Neural Machine Translation by Simplification:The Case of Encoder-free Models. [[paper]](https://www.aclweb.org/anthology/R19-1136.pdf)
+
 - **[arXiv-20]**: What's so special about BERT's layers? A closer look at the NLP pipeline in monolingual and multilingual models. [[paper]](https://arxiv.org/pdf/2004.06499.pdf)
 
 - **[arXiv-20]**: Telling BERT's full story: from Local Attention to Global Aggregation. [[paper]](https://arxiv.org/pdf/2004.05916.pdf)
