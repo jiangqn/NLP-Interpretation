@@ -192,6 +192,10 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-18]**: Interpreting Recurrent and Attention-Based Neural Models: a Case Study on Natural Language Inference. [[paper]](https://www.aclweb.org/anthology/D18-1537.pdf)
 
+- **[NeurIPS-19]**: Are Sixteen Heads Really Better than One? [[paper]](https://arxiv.org/pdf/1905.10650.pdf)
+
+- **[ACL-19]**: Interpretable Neural Predictions with Differentiable Binary Variables. [[paper]](https://www.aclweb.org/anthology/P19-1284.pdf)
+
 - **[arXiv-20]**: Lost in Embedding Space: Explaining Cross-Lingual Task Performance with Eigenvalue Divergence. [[paper]](https://arxiv.org/pdf/2001.11136.pdf)
 > This paper proposed a language similarity (distance) measure (called EVD) based on isomorphism between monolingual embedding spaces, which shows strong correlation with performance of BLI and downstream cross-lingual tasks (machine translation, cross-lingual dependency parsing and POS tagging). Additional analysis shows that isomorphism-based language distances and typologically driven language distances capture different aspects of language characters. The combination of EVD and typologically driven language distances has stronger correlation with cross-lingual task performance.
 
