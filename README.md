@@ -44,6 +44,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-18]**: Are BLEU and Meaning Representation in Opposition? [[paper]](https://www.aclweb.org/anthology/P18-1126.pdf)
 
+- **[ACL-18]**: Deep RNNs Encode Soft Hierarchical Syntax. [[paper]](https://www.aclweb.org/anthology/P18-2003.pdf)
+
 - **[EMNLP-18]**: Dissecting Contextual Word Embeddings: Architecture and Representation. [[paper]](https://arxiv.org/pdf/1808.08949.pdf)
 
 - **[EMNLP-18-workshop]**: An Analysis of Encoder Representations in Transformer-Based Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-5431.pdf)
@@ -79,6 +81,8 @@ A paper list for interpreting neural networks in natural language processing.
 - **[ACL-20]**: Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve. [[paper]](https://arxiv.org/pdf/2004.04564.pdf)
 
 - **[ACL-20]**: Information-Theoretic Probing for Linguistic Structure. [[paper]](https://arxiv.org/pdf/2004.03061.pdf)
+
+- **[ACL-20]**: Probing Linguistic Features of Sentence-Level Representations in Neural Relation Extraction. [[paper]](https://arxiv.org/pdf/2004.08134.pdf)
 
 - **[arXiv-20]**: Information-Theoretic Probing with Minimum Description Length. [[paper]](https://arxiv.org/pdf/2003.12298.pdf) [[blog]](https://lena-voita.github.io/posts/mdl_probes.html)
 
@@ -121,6 +125,8 @@ A paper list for interpreting neural networks in natural language processing.
 ### Representation Similarity Analysis
 
 - **[NIPS-17]**: SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability. [[paper]](https://arxiv.org/pdf/1706.05806.pdf)
+
+- **[NIPS-18]**: Insights on representational similarity in neuralnetworks with canonical correlation. [[paper]](https://papers.nips.cc/paper/7815-insights-on-representational-similarity-in-neural-networks-with-canonical-correlation.pdf)
 
 - **[ICML-19]**: Similarity of Neural Network Representations Revisited. [[paper]](https://arxiv.org/pdf/1905.00414.pdf)
 
@@ -205,3 +211,5 @@ A paper list for interpreting neural networks in natural language processing.
 > This paper is an overview of studies about what BERT learned and how BERT works. (i) **BERT embedding:** BERT’s contextualized embeddings form distinct and clear clusters corresponding to word senses, which confirms that the basic distributional hypothesis holds for these representations. Later BERT layers produce more context-specific representations. (ii) **What knowledge does BERT have:** BERT encodes syntactic knowledge, semantic knowledge and world knowledge partially. But the encoding of that knowledge does not indicate that it actually relies on that knowledge. (iii) **Localizing linguistic knowledge:** Most self-attention heads do not directly encode any non-trivial linguistic information. Some BERT heads seem to specialize in certain types of syntactic relations.  Lower layers have the most linear word order information. syntactic information is the most prominent in the middle BERT layers. The final layers of BERT are the most task-specific. Semantics is spread across the entire model. (iv) **Training BERT:** Lots of improvements of pre-training objectives, model architecture choices and fine-tuning have been made, see more details in the paper. (v) **How big should BERT be:** BERT is over-parametrized and can be compressed. (vi) **Multilingual BERT:**  mBERT seems to naturally learn high-quality cross-lingual word alignments and can retrieve parallel sentences. mBERT is simply trained on a multilingual corpus, with no language IDs, but it encodes language identities, and adding the IDs in pre-training was not beneficial.  (vii) **Limitations and Directions for further research:** A linguistic pattern is not observed by our probing classifier does not guarantee that it is not there, and the observation of a pattern does not tell us how it is used.  A more complex probe might be able to recover more information, but it becomes less clear whether this is due to the probed model or the probing classifier. BERT does not form good representations for numbers and fails to generalize away from training data. BERT performs bad at verbal reasoning and can not reason with its world knowledge.
 
 - **[ACL-20]**: Generating Fact Checking Explanations. [[paper]](https://arxiv.org/pdf/2004.05773.pdf)
+
+- **[arXiv-20]**: Do sequence-to-sequence VAEs learn global features of sentences? [[paper]](https://arxiv.org/pdf/2004.07683.pdf)
