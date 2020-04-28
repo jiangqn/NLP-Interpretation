@@ -132,7 +132,15 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ICML-19]**: Similarity of Neural Network Representations Revisited. [[paper]](https://arxiv.org/pdf/1905.00414.pdf)
 
+- **[NAACL-19]**: Understanding Learning Dynamics Of Language Models with SVCCA. [[paper]](https://www.aclweb.org/anthology/N19-1329.pdf)
+
 - **[EMNLP-19]**: The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. [[paper]](https://www.aclweb.org/anthology/D19-1448.pdf)
+
+### Information-Theory based Interpretation
+
+- **[HUJJ-99]**: The Information Bottleneck Method. [[paper]](https://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf)
+
+- **[ITW-15]**: Deep Learning and the Information Bottleneck Principle. [[paper]](https://arxiv.org/pdf/1503.02406.pdf)
 
 ### Attention Interpretability
 
