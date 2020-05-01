@@ -80,11 +80,7 @@ A paper list for interpreting neural networks in natural language processing.
   
 - **[ACL-20]**: Interpretability Analysis for Named Entity Recognition to Understand System Predictions and How They Can Improve. [[paper]](https://arxiv.org/pdf/2004.04564.pdf)
 
-- **[ACL-20]**: Information-Theoretic Probing for Linguistic Structure. [[paper]](https://arxiv.org/pdf/2004.03061.pdf)
-
 - **[ACL-20]**: Probing Linguistic Features of Sentence-Level Representations in Neural Relation Extraction. [[paper]](https://arxiv.org/pdf/2004.08134.pdf)
-
-- **[arXiv-20]**: Information-Theoretic Probing with Minimum Description Length. [[paper]](https://arxiv.org/pdf/2003.12298.pdf) [[blog]](https://lena-voita.github.io/posts/mdl_probes.html)
 
 ### Visualization Method
 
@@ -141,6 +137,20 @@ A paper list for interpreting neural networks in natural language processing.
 - **[HUJJ-99]**: The Information Bottleneck Method. [[paper]](https://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf)
 
 - **[ITW-15]**: Deep Learning and the Information Bottleneck Principle. [[paper]](https://arxiv.org/pdf/1503.02406.pdf)
+
+- **[arXiv-17]**: Opening the black box of Deep Neural Networks via Information. [[paper]](https://arxiv.org/pdf/1703.00810.pdf)
+
+- **[ACL-20]**: Information-Theoretic Probing for Linguistic Structure. [[paper]](https://arxiv.org/pdf/2004.03061.pdf)
+
+- **[arXiv-20]**: Information-Theoretic Probing with Minimum Description Length. [[paper]](https://arxiv.org/pdf/2003.12298.pdf) [[blog]](https://lena-voita.github.io/posts/mdl_probes.html)
+
+### Generalization of Deep Learning
+
+- **[ICLR-17]**: Understanding deep learning requires rethinking generalization. [[paper]](https://arxiv.org/pdf/1611.03530.pdf)
+
+- **[arXiv-18]**: Reconciling modern machine learning practice and the bias-variance trade-off. [[paper]](https://arxiv.org/pdf/1812.11118.pdf)
+
+- **[ICLR-19]**: The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. [[paper]](https://arxiv.org/pdf/1803.03635.pdf)
 
 ### Attention Interpretability
 
