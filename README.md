@@ -196,6 +196,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: Attention is not not Explanation. [[paper]](https://www.aclweb.org/anthology/D19-1002.pdf)
 
+- **[ACL-20]**: Towards Transparent and Explainable Attention Models. [[paper]](https://arxiv.org/pdf/2004.14243.pdf)
+
 ### Individual Neurons Analysis
 
 - **[AAAI-19]**: What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models. [[paper]](https://arxiv.org/pdf/1812.09355.pdf)
@@ -281,6 +283,8 @@ A paper list for interpreting neural networks in natural language processing.
 - **[ACL-20]**: ESPRIT: Explaining Solutions to Physical Reasoning Tasks. [[paper]](https://arxiv.org/pdf/2005.00730.pdf)
 
 - **[ICLR-20]**: Understanding and Improving Information Transfer in Multi-Task Learning. [[paper]](https://arxiv.org/pdf/2005.00944.pdf)
+
+- **[arXiv-20]**: Causal Mediation Analysis for Interpreting Neural NLP: The Case of Gender Bias. [[paper]](https://arxiv.org/pdf/2004.12265.pdf)
 
 ### Weak Related Papers
 
