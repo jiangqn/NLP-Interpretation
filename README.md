@@ -84,9 +84,21 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-20]**: What is Learned in Visually Grounded Neural Syntax Acquisition. [[paper]](https://arxiv.org/pdf/2005.01678.pdf)
 
+- **[arXiv-20]**: Probing Text Models for Common Ground with Visual Representations. [[paper]](https://arxiv.org/pdf/2005.00619.pdf)
+
 - **[ACL-20]**: Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words. [[paper]](https://arxiv.org/pdf/2005.01810.pdf)
 
 - **[ACL-20]**: A Tale of a Probe and a Parser. [[paper]](https://arxiv.org/pdf/2005.01641.pdf)
+
+- **[arXiv-20]**: Can BERT Reason? Logically Equivalent Probes for Evaluating the Inference Capabilities of Language Models. [[paper]](https://arxiv.org/pdf/2005.00782.pdf)
+
+- **[ACL-20]**: Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance? [[paper]](https://arxiv.org/pdf/2005.00719.pdf)
+
+- **[ACL-20]**: Intermediate-Task Transfer Learning with Pretrained Models for Natural Language Understanding: When and Why Does It Work? [[paper]](https://arxiv.org/pdf/2005.00628.pdf)
+
+- **[arXiv-20]**: Assessing the Bilingual Knowledge Learned by Neural Machine Translation Models. [[paper]](https://arxiv.org/pdf/2004.13270.pdf)
+
+- **[arXiv-20]**: Quantifying the Contextualization of Word Representationswith Semantic Class Probing. [[paper]](https://arxiv.org/pdf/2004.12198.pdf)
 
 ### Visualization Method
 
@@ -165,6 +177,8 @@ A paper list for interpreting neural networks in natural language processing.
 - **[arXiv-18]**: Reconciling modern machine learning practice and the bias-variance trade-off. [[paper]](https://arxiv.org/pdf/1812.11118.pdf)
 
 - **[ICLR-19]**: The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. [[paper]](https://arxiv.org/pdf/1803.03635.pdf)
+
+- **[arXiv-20]**: When BERT Plays the Lottery, All Tickets Are Winning. [[paper]](https://arxiv.org/pdf/2005.00561.pdf)
 
 ### Attention Interpretability
 
@@ -260,7 +274,16 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[arXiv-20]**: What-if I ask you to explain: Explaining the effects of perturbations in procedural text. [[paper]](https://arxiv.org/pdf/2005.01526.pdf)
 
+- **[arXiv-20]**: Teaching Machine Comprehension with Compositional Explanations. [[paper]](https://arxiv.org/pdf/2005.00806.pdf)
+
+- **[ACL-20]**: Obtaining Faithful Interpretations from Compositional Neural Networks. [[paper]](https://arxiv.org/pdf/2005.00724.pdf)
+
+- **[ACL-20]**: ESPRIT: Explaining Solutions to Physical Reasoning Tasks. [[paper]](https://arxiv.org/pdf/2005.00730.pdf)
+
+- **[ICLR-20]**: Understanding and Improving Information Transfer in Multi-Task Learning. [[paper]](https://arxiv.org/pdf/2005.00944.pdf)
 
 ### Weak Related Papers
 
 - **[ACL-20]**: What are the Goals of Distributional Semantics? [[paper]](https://arxiv.org/pdf/2005.02982.pdf)
+
+- **[ACL-20]**: Generalized Entropy Regularization or:There’s Nothing Special about Label Smoothing. [[paper]](https://arxiv.org/pdf/2005.00820.pdf)
