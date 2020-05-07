@@ -82,6 +82,12 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-20]**: Probing Linguistic Features of Sentence-Level Representations in Neural Relation Extraction. [[paper]](https://arxiv.org/pdf/2004.08134.pdf)
 
+- **[ACL-20]**: What is Learned in Visually Grounded Neural Syntax Acquisition. [[paper]](https://arxiv.org/pdf/2005.01678.pdf)
+
+- **[ACL-20]**: Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words. [[paper]](https://arxiv.org/pdf/2005.01810.pdf)
+
+- **[ACL-20]**: A Tale of a Probe and a Parser. [[paper]](https://arxiv.org/pdf/2005.01641.pdf)
+
 ### Visualization Method
 
 - **[ICLR-16]**: Visualizing and Understanding Recurrent Networks. [[paper]](https://arxiv.org/pdf/1506.02078.pdf)
@@ -132,6 +138,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. [[paper]](https://www.aclweb.org/anthology/D19-1448.pdf)
 
+- **[ACL-20]**: Similarity Analysis of Contextual Word Representation Models. [[paper]]()
+
 ### Information-Theory based Interpretation
 
 - **[HUJJ-99]**: The Information Bottleneck Method. [[paper]](https://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf)
@@ -143,6 +151,12 @@ A paper list for interpreting neural networks in natural language processing.
 - **[ACL-20]**: Information-Theoretic Probing for Linguistic Structure. [[paper]](https://arxiv.org/pdf/2004.03061.pdf)
 
 - **[arXiv-20]**: Information-Theoretic Probing with Minimum Description Length. [[paper]](https://arxiv.org/pdf/2003.12298.pdf) [[blog]](https://lena-voita.github.io/posts/mdl_probes.html)
+
+- **[ACL-20]**: It’s Easier to Translateout ofEnglish thanintoit:Measuring Neural Translation Difficulty by Cross-Mutual Information. [[paper]](https://arxiv.org/pdf/2005.02354.pdf)
+
+### Natural Language Explanations
+
+- **[ACL-20]**: ExpBERT: Representation Engineering with Natural Language Explanations. [[paper]](https://arxiv.org/pdf/2005.01932.pdf)
 
 ### Generalization of Deep Learning
 
@@ -210,6 +224,10 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-19-workshop]**: Evaluating Recurrent Neural Network Explanations. [[paper]](https://www.aclweb.org/anthology/W19-4813.pdf)
 
+- **[ACL-20]**: Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? [[paper]](https://arxiv.org/pdf/2005.01831.pdf)
+
+- **[ACL-20]**: Evaluating Explanation Methods for Neural Machine Translation. [[paper]](https://arxiv.org/pdf/2005.01672.pdf)
+
 ### Other
 
 - **[ACL-16-workshop]**: Explaining Predictions of Non-Linear Classifiers in NLP. [[paper]](https://arxiv.org/pdf/1606.07298)
@@ -233,3 +251,16 @@ A paper list for interpreting neural networks in natural language processing.
 - **[ACL-20]**: Generating Fact Checking Explanations. [[paper]](https://arxiv.org/pdf/2004.05773.pdf)
 
 - **[arXiv-20]**: Do sequence-to-sequence VAEs learn global features of sentences? [[paper]](https://arxiv.org/pdf/2004.07683.pdf)
+
+- **[ACL-20]**: Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models. [[paper]](https://arxiv.org/pdf/2005.01190.pdf)
+
+- **[ACL-20]**: How Does Selective Mechanism Improve Self-Attention Networks? [[paper]](https://arxiv.org/pdf/2005.00979.pdf)
+
+- **[ACL-20]**: Contextualizing Hate Speech Classifiers with Post-hoc Explanation. [[paper]](https://arxiv.org/pdf/2005.02439.pdf)
+
+- **[arXiv-20]**: What-if I ask you to explain: Explaining the effects of perturbations in procedural text. [[paper]](https://arxiv.org/pdf/2005.01526.pdf)
+
+
+### Weak Related Papers
+
+- **[ACL-20]**: What are the Goals of Distributional Semantics? [[paper]](https://arxiv.org/pdf/2005.02982.pdf)
