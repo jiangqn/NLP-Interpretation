@@ -122,7 +122,7 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-19-workshop]**: What does BERT look at? An Analysis of BERT’s Attention. [[paper]](https://www.aclweb.org/anthology/W19-4828.pdf)
 
-### Input (Word) Importance Estimation
+### Attribution
 
 - **[ICML-17]**: Understanding Black-box Predictions via Influence Functions. [[paper]](https://arxiv.org/pdf/1703.04730.pdf)
 
@@ -135,6 +135,26 @@ A paper list for interpreting neural networks in natural language processing.
 - **[EMNLP-19]**: Towards Understanding Neural Machine Translation with Word Importance. [[paper]](https://arxiv.org/pdf/1909.00326.pdf)
 
 > (i) Word importance estimation aims to indentify most important words to translation performance in original input. (ii) The paper proposed a gradient-based method which outperforms erasion-based method and attention-based method. (iii) Additional analysis shows that words of certain syntactic categories have higher importance while the categories vary across language.
+
+- **[arXiv-20]**: Aligning Faithful Interpretations with their Social Attribution. [[paper]](https://arxiv.org/pdf/2006.01067.pdf)
+
+### Attention Interpretability
+
+- **[WMT-18]**: An Analysis of Attention Mechanisms: The Case of Word Sense Disambiguation in Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-6304.pdf)
+
+- **[SIGIR-19-workshop]**: Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? [[paper]](https://arxiv.org/pdf/1907.00570.pdf)
+
+- **[ACL-19]**: Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned. [[paper]](https://arxiv.org/pdf/1905.09418.pdf)
+
+- **[NAACL-19]**: Attention is not Explanation. [[paper]](https://www.aclweb.org/anthology/N19-1357.pdf)
+
+- **[arXiv-19]**: Attention Interpretability Across NLP Tasks. [[paper]](https://arxiv.org/pdf/1909.11218.pdf)
+
+- **[ACL-19]**: Is Attention Interpretable? [[paper]](https://www.aclweb.org/anthology/P19-1282.pdf)
+
+- **[EMNLP-19]**: Attention is not not Explanation. [[paper]](https://www.aclweb.org/anthology/D19-1002.pdf)
+
+- **[ACL-20]**: Towards Transparent and Explainable Attention Models. [[paper]](https://arxiv.org/pdf/2004.14243.pdf)
 
 ### Representation Similarity Analysis
 
@@ -150,7 +170,19 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[EMNLP-19]**: The Bottom-up Evolution of Representations in the Transformer: A Study with Machine Translation and Language Modeling Objectives. [[paper]](https://www.aclweb.org/anthology/D19-1448.pdf)
 
-- **[ACL-20]**: Similarity Analysis of Contextual Word Representation Models. [[paper]]()
+- **[ACL-20]**: Similarity Analysis of Contextual Word Representation Models. [[paper]](https://arxiv.org/pdf/2005.01172.pdf)
+
+### Explanation Evaluating
+
+- **[NAACL-18]**: Comparing Automatic and Human Evaluation of Local Explanations for Text Classification. [[paper]](https://www.aclweb.org/anthology/N18-1097.pdf)
+
+- **[ACL-19-workshop]**: Evaluating Recurrent Neural Network Explanations. [[paper]](https://www.aclweb.org/anthology/W19-4813.pdf)
+
+- **[ACL-20]**: Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? [[paper]](https://arxiv.org/pdf/2005.01831.pdf)
+
+- **[ACL-20]**: Evaluating Explanation Methods for Neural Machine Translation. [[paper]](https://arxiv.org/pdf/2005.01672.pdf)
+
+- **[ACL-20]**: Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness? [[paper]](https://arxiv.org/pdf/2004.03685.pdf)
 
 ### Information-Theory based Interpretation
 
@@ -170,7 +202,7 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-20]**: ExpBERT: Representation Engineering with Natural Language Explanations. [[paper]](https://arxiv.org/pdf/2005.01932.pdf)
 
-### Generalization of Deep Learning
+### Optimization and Generalization of Deep Learning
 
 - **[ICLR-17]**: Understanding deep learning requires rethinking generalization. [[paper]](https://arxiv.org/pdf/1611.03530.pdf)
 
@@ -179,24 +211,6 @@ A paper list for interpreting neural networks in natural language processing.
 - **[ICLR-19]**: The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks. [[paper]](https://arxiv.org/pdf/1803.03635.pdf)
 
 - **[arXiv-20]**: When BERT Plays the Lottery, All Tickets Are Winning. [[paper]](https://arxiv.org/pdf/2005.00561.pdf)
-
-### Attention Interpretability
-
-- **[WMT-18]**: An Analysis of Attention Mechanisms: The Case of Word Sense Disambiguation in Neural Machine Translation. [[paper]](https://www.aclweb.org/anthology/W18-6304.pdf)
-
-- **[SIGIR-19-workshop]**: Do Transformer Attention Heads Provide Transparency in Abstractive Summarization? [[paper]](https://arxiv.org/pdf/1907.00570.pdf)
-
-- **[ACL-19]**: Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned. [[paper]](https://arxiv.org/pdf/1905.09418.pdf)
-
-- **[NAACL-19]**: Attention is not Explanation. [[paper]](https://www.aclweb.org/anthology/N19-1357.pdf)
-
-- **[arXiv-19]**: Attention Interpretability Across NLP Tasks. [[paper]](https://arxiv.org/pdf/1909.11218.pdf)
-
-- **[ACL-19]**: Is Attention Interpretable? [[paper]](https://www.aclweb.org/anthology/P19-1282.pdf)
-
-- **[EMNLP-19]**: Attention is not not Explanation. [[paper]](https://www.aclweb.org/anthology/D19-1002.pdf)
-
-- **[ACL-20]**: Towards Transparent and Explainable Attention Models. [[paper]](https://arxiv.org/pdf/2004.14243.pdf)
 
 ### Individual Neurons Analysis
 
@@ -233,16 +247,6 @@ A paper list for interpreting neural networks in natural language processing.
 ### Interpreting with Nearest Neighbors
 
 - **[EMNLP-18-workshop]**: Interpreting Neural Networks with Nearest Neighbors. [[paper]](https://www.aclweb.org/anthology/W18-5416.pdf)
-
-### Explanation Evaluating
-
-- **[NAACL-18]**: Comparing Automatic and Human Evaluation of Local Explanations for Text Classification. [[paper]](https://www.aclweb.org/anthology/N18-1097.pdf)
-
-- **[ACL-19-workshop]**: Evaluating Recurrent Neural Network Explanations. [[paper]](https://www.aclweb.org/anthology/W19-4813.pdf)
-
-- **[ACL-20]**: Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior? [[paper]](https://arxiv.org/pdf/2005.01831.pdf)
-
-- **[ACL-20]**: Evaluating Explanation Methods for Neural Machine Translation. [[paper]](https://arxiv.org/pdf/2005.01672.pdf)
 
 ### Other
 
