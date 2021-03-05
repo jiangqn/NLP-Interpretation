@@ -10,6 +10,10 @@ A paper list for interpreting neural networks in natural language processing.
 - **[TACL-19]**: Analysis Methods in Neural Language Processing: A Survey. [[paper]](https://www.aclweb.org/anthology/Q19-1004.pdf) [[appendix]](https://boknilev.github.io/nlp-analysis-methods/)
 > This survey reviews methods of analyzing, understanding and interpreting neural network models in NLP. Existing works can be categorized as the following 6 categories: (i) Probing task methods for exploiting what kind of linguistic information is captured in neural networks. (ii) Visualization. (iii) The compilation of challenge sets, or test suites for fine-grained evaluation. (iv) The generation and use of adversarial examples to probe weaknesses of neural networks. (v) Explaining model predictions. (vi) Other methods.
 
+- **[ACL-20 Tutorial]**: Interpretability and Analysis in Neural NLP. [[slides]](https://sebastiangehrmann.com/assets/files/acl_2020_interpretability_tutorial.pdf)
+
+- **[EMNLP-20 Tutorial]**: Interpreting Predictions of NLP Models. [[slides]](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020/blob/master/tutorial_slides.pdf)
+
 - **[ZJU]**: 模型可解释性关键技术、应用及其安全性研究综述. [[paper]](https://nesa.zju.edu.cn/download/%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%A7%A3%E9%87%8A%E6%80%A7%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E3%80%81%E5%BA%94%E7%94%A8%E5%8F%8A%E5%85%B6%E5%AE%89%E5%85%A8%E6%80%A7%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0.pdf)
 
 ## Workshop
