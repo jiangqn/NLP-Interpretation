@@ -26,6 +26,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 ### Probing Task Method
 
+- **[arXiv-21]**: Probing Classifiers: Promises, Shortcomings, and Alternatives. [[paper]](https://arxiv.org/pdf/2102.12452.pdf)
+
 - **[ACL-16]**: Does String-Based Neural MT Learn Source Syntax? [[paper]](https://www.aclweb.org/anthology/D16-1159.pdf)
 
 > This paper exploited: (i) Does the encoder learn syntactic information about the source sentence? (ii) What kind of syntactic information is learned, and how much? They predicted syntactic labels and extracted syntactic trees using encoder intermediate representations to examine whether encoder capture syntactic information. Experimental results showed that: (i) Encoder captures both global and local syntactic information of the source sentence, and different information tends to be stored at different layers. (ii) Much syntactic  information is learned, while various types of syntactic information are still missing.
@@ -126,6 +128,8 @@ A paper list for interpreting neural networks in natural language processing.
 
 - **[ACL-19-workshop]**: What does BERT look at? An Analysis of BERT’s Attention. [[paper]](https://www.aclweb.org/anthology/W19-4828.pdf)
 
+- **[arXiv-20]**: Amnesic Probing: Behavioral Explanation with Amnesic Counterfactuals. [[paper]](https://arxiv.org/pdf/2006.00995.pdf)
+
 ### Attribution
 
 - **[ICML-17]**: Understanding Black-box Predictions via Influence Functions. [[paper]](https://arxiv.org/pdf/1703.04730.pdf)
@@ -141,6 +145,8 @@ A paper list for interpreting neural networks in natural language processing.
 > (i) Word importance estimation aims to indentify most important words to translation performance in original input. (ii) The paper proposed a gradient-based method which outperforms erasion-based method and attention-based method. (iii) Additional analysis shows that words of certain syntactic categories have higher importance while the categories vary across language.
 
 - **[arXiv-20]**: Aligning Faithful Interpretations with their Social Attribution. [[paper]](https://arxiv.org/pdf/2006.01067.pdf)
+
+- **[arXiv-20]**:  CausaLM: Causal model explanation through counterfactual language models. [[paper]](https://arxiv.org/pdf/2005.13407.pdf)
 
 ### Attention Interpretability
 
